@@ -27,44 +27,44 @@ export const exploreWorlds = [
 ];
 
 export const startingFeatures = [
-  'Find a world that suits you and you want to enter',
-  'Enter the world by reading basmalah to be safe',
-  'No need to beat around the bush, just stay on the gas and have fun',
+"Temukan dunia yang cocok untukmu dan yang ingin kamu masuki",
+"Masuklah ke dunia tersebut dengan membaca basmalah untuk keselamatanmu",
+"Tidak perlu bertele-tele, cukup tekan gas dan nikmati perjalananmu",
 ];
 
 export const newFeatures = [
   {
     imgUrl: '/vrpano.svg',
-    title: 'A new world',
+    title: 'Dunia baru',
     subtitle:
-        'we have the latest update with new world for you to try never mind',
-  },
-  {
+    'Kami memiliki update terbaru dengan dunia baru yang dapat kamu coba, tidak perlu khawatir',
+    },
+    {
     imgUrl: '/headset.svg',
-    title: 'More realistic',
+    title: 'Lebih realistis',
     subtitle:
-        'In the latest update, your eyes are narrow, making the world more realistic than ever',
-  },
+    'Dalam update terbaru, mata kamu menjadi lebih sempit, membuat dunia terasa lebih realistis dari sebelumnya',
+    }
 ];
 
 export const insights = [
   {
-    imgUrl: '/planet-06.png',
-    title: 'The launch of the Metaverse makes Elon musk ketar-ketir',
+    imgUrl: "/planet-06.png",
+    title: "Peluncuran Metaverse bikin Elon musk ketar-ketir",
     subtitle:
-        'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
+      "Elon Musk Merasa Gelisah dengan Peluncuran Metaverse Baru: Mengeksplorasi Dampak yang Luar Biasa dan Mempersiapkan Diri Anda untuk Era Baru",
   },
   {
-    imgUrl: '/planet-07.png',
-    title: '7 tips to easily master the madness of the Metaverse',
+    imgUrl: "/planet-07.png",
+    title: "7 tips mudah menguasai metaverse",
     subtitle:
-        'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
+      "Pelajari Cara Mudah Menguasai Metaverse dengan 7 Tips Ini: Menjadi Ahli dalam Dunia Virtual untuk Mencapai Tujuan Anda",
   },
   {
-    imgUrl: '/planet-08.png',
-    title: 'With one platform you can explore the whole world virtually',
+    imgUrl: "/planet-08.png",
+    title: "Dengan satu platform kamu bisa menjelajahi seluruh dunia secara virtual",
     subtitle:
-        'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',
+      "Jelajahi Dunia Virtual dengan Satu Platform: Menemukan Keajaiban Dunia Tanpa Batas dengan Kemudahan di Ujung Jari Anda",
   },
 ];
 
